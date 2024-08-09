@@ -1,16 +1,15 @@
-## Hi there 👋
+## Eduardo Nonemacher
 
-<!--
-**ernonemacher/ernonemacher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a mobile software engineer currently graduating in Software Engineering at UTFPR (Federal University of Technology - Paraná) in Brazil. I had the opportunity to spend a year in Germany at THI (Technische Hochschule Ingolstadt) where I studied Computer Science and Artificial Intelligence. With 3 years of professional experience in Flutter, I specialize in developing cross-platform mobile applications.
 
-Here are some ideas to get you started:
+Even though my main focus is mobile development, I am a Full Stack developer with knowledge and professional experience with other technologies. I am a problem solver, languages and frameworks are just tools to build great experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am enthusiastic about connecting with people in the mobile software engineering area, whether to discuss potential collaborations or explore exciting opportunities within the industry.
+
+##
+<div>
+  <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ernonemacher&layout=compact&langs_count=16&theme=dracula"/>  
+</div>
+<div>
+  <a href="https://www.linkedin.com/in/ernonemacher/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
